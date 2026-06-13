@@ -40,4 +40,4 @@ Kingdom-wise time-based 80/20 split — for each kingdom independently, the earl
 - Python, TensorFlow/Keras, pandas, scikit-learn, matplotlib/seaborn
 
 ## Files
-- `Harveston_Attention_v3.ipynb` — full pipeline: preprocessing, feature engineering, model, training, evaluation, residual analysis
+- `Harveston.ipynb` — full pipeline: preprocessing, feature engineering, model, training, evaluation, residual analysis
