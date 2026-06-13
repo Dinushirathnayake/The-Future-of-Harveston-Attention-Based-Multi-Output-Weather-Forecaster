@@ -1,0 +1,2 @@
+# The-Future-of-Harveston-Attention-Based-Multi-Output-Weather-Forecaster
+This project was developed for **"The Future of Harveston"** Kaggle competition (Data Crunch by CodeJam, CSE UOM), a time-series forecasting challenge to predict five environmental variables — average temperature, solar radiation, rainfall, wind speed, and wind direction — across 9 kingdoms (provinces), evaluated using average sMAPE.
